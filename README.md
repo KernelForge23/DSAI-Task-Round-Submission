@@ -1,6 +1,6 @@
 - **Name & Branch**
-  - **Name:** [Your full name]
-  - **Branch:** [Your academic branch]
+  - **Name:** Aaditya Shah
+  - **Branch:** AIML
 
 - **Model Architecture & Core Idea**
   - **Task:** Predict six independent toxicity probabilities for each Wikipedia comment: `toxic`, `severe_toxic`, `obscene`, `threat`, `insult`, and `identity_hate`.
